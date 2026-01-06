@@ -1,0 +1,24 @@
+[0.615s] Invoking command in '/home/ytrobot/Dev/neomower/mower_ws/build/mower_control': PYTHONPATH=/home/ytrobot/Dev/neomower/mower_ws/build/mower_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ytrobot/Dev/neomower/mower_ws/install/mower_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ytrobot/Dev/neomower/mower_ws/build/mower_control/build --no-deps symlink_data
+[0.877s] running develop
+[1.049s] running egg_info
+[1.049s] creating mower_control.egg-info
+[1.049s] writing mower_control.egg-info/PKG-INFO
+[1.050s] writing dependency_links to mower_control.egg-info/dependency_links.txt
+[1.050s] writing entry points to mower_control.egg-info/entry_points.txt
+[1.050s] writing requirements to mower_control.egg-info/requires.txt
+[1.050s] writing top-level names to mower_control.egg-info/top_level.txt
+[1.050s] writing manifest file 'mower_control.egg-info/SOURCES.txt'
+[1.051s] reading manifest file 'mower_control.egg-info/SOURCES.txt'
+[1.052s] writing manifest file 'mower_control.egg-info/SOURCES.txt'
+[1.053s] running build_ext
+[1.053s] Creating /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/lib/python3.10/site-packages/mower-control.egg-link (link to .)
+[1.054s] Installing mower_controller script to /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/lib/mower_control
+[1.054s] 
+[1.055s] Installed /home/ytrobot/Dev/neomower/mower_ws/build/mower_control
+[1.055s] running symlink_data
+[1.055s] creating /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/share/ament_index
+[1.055s] creating /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/share/ament_index/resource_index
+[1.055s] creating /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/share/ament_index/resource_index/packages
+[1.055s] symbolically linking /home/ytrobot/Dev/neomower/mower_ws/build/mower_control/resource/mower_control -> /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/share/ament_index/resource_index/packages
+[1.055s] symbolically linking /home/ytrobot/Dev/neomower/mower_ws/build/mower_control/package.xml -> /home/ytrobot/Dev/neomower/mower_ws/install/mower_control/share/mower_control
+[1.082s] Invoked command in '/home/ytrobot/Dev/neomower/mower_ws/build/mower_control' returned '0': PYTHONPATH=/home/ytrobot/Dev/neomower/mower_ws/build/mower_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ytrobot/Dev/neomower/mower_ws/install/mower_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ytrobot/Dev/neomower/mower_ws/build/mower_control/build --no-deps symlink_data

@@ -1,0 +1,15 @@
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/ament_index/resource_index/package_run_dependencies/mower_interfaces
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/ament_index/resource_index/parent_prefix_path/mower_interfaces
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/environment/ament_prefix_path.sh
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/environment/ament_prefix_path.dsv
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/environment/path.sh
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/environment/path.dsv
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/local_setup.bash
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/local_setup.sh
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/local_setup.zsh
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/local_setup.dsv
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/package.dsv
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/ament_index/resource_index/packages/mower_interfaces
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/cmake/mower_interfacesConfig.cmake
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/cmake/mower_interfacesConfig-version.cmake
+/home/ytrobot/Dev/neomower/mower_ws/install/mower_interfaces/share/mower_interfaces/package.xml

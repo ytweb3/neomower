@@ -1,0 +1,3 @@
+[console_scripts]
+mower_controller = mower_control.mower_controller:main
+
