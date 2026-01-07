@@ -1,1 +1,0 @@
-/home/ytrobot/Dev/neomower/mower_ws/src/mower_control/setup.py

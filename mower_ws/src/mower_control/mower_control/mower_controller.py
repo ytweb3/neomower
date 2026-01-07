@@ -42,7 +42,6 @@ class MowerController(Node):
 
     def control_loop(self):
 
-
         cmd = Twist()
 
         if not self.inside_boundary():

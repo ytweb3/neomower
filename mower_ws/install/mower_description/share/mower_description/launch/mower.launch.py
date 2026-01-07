@@ -1,1 +1,0 @@
-/home/ytrobot/Dev/neomower/mower_ws/src/mower_description/launch/mower.launch.py

@@ -1,1 +1,0 @@
-/home/ytrobot/Dev/neomower/mower_ws/build/mower_sim/ament_cmake_environment_hooks/local_setup.bash
