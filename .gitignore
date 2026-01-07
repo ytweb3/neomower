@@ -1,0 +1,29 @@
+# ===== ROS 2 / colcon =====
+build/
+install/
+log/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ===== Editor / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Gazebo =====
+*.gazebo
